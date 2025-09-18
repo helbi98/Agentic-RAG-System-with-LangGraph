@@ -1,0 +1,37 @@
+# Core LangChain / LangGraph
+langchain
+langchain-community
+langgraph
+
+# Groq LLM support 
+langchain-groq
+groq
+
+# Vector store + embeddings
+chromadb
+sentence-transformers
+transformers
+torch
+huggingface-hub
+
+# PDF processing
+pypdf
+pdfplumber
+
+# OCR
+pytesseract
+
+# NLP
+nltk
+
+# Data / ML utils
+scikit-learn
+pandas
+numpy
+tqdm
+
+# Other utilities
+requests
+python-dotenv
+rich
+typing-extensions
